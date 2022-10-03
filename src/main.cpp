@@ -10,21 +10,13 @@
 
 #define CE_PIN 8
 #define CSN_PIN 10
-<<<<<<< HEAD
-#define M1_PIN 5
-#define M2_PIN 3 
-#define M3_PIN 1
-#define M4_PIN 4
-#define SOLENOID_UP 2
-#define SOLENOID_DOWN 7
-=======
+
 #define M1_PIN 6
 #define M2_PIN 5 
 #define M3_PIN 7
 #define M4_PIN 4
 #define SOLENOID_UP 2
 #define SOLENOID_DOWN 3
->>>>>>> 36fcfe19b61bcfbae6326edc302352b9329eda51
 
 #define DEBUG 0
 
