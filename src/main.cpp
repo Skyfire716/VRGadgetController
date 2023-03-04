@@ -250,6 +250,7 @@ void loop() {
             M2.write(throttleM2);
             M3.write(throttleM3);
             M4.write(throttleM4);
+            Serial.println("Boost");
             throttle_uptime = millis();
           }
           //===============
